@@ -1,5 +1,5 @@
 import React from 'react';
-import { motion, animatePresence, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import { useContext } from 'react';
 import FeedbackContext from '../context/FeedbackContext';
 import FeedbackItem from './FeedbackItem';
